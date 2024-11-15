@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+}
+
+.timer-container {
+    margin-top: 100px;
+}
+  
+#timer {
+    font-size: 2em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+  
+#timer span {
+    color: #ff0000;
+    margin: 0 10px;
+    display: inline-block;
+    min-width: 50px;
+    text-align: center;
+}
+  
